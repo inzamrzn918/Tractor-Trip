@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tractor Trip</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="we_client_id">1079824128230-agl99aghdmlbh7m549maeabhvdt0vhnh.apps.googleusercontent.com</string>
+    <string name="web_client_secret"></string>
+    <string name="todo">TODO</string>
+    <string name="tractor_icon">bus_logo\n</string>
+    <string name="driver_demo_text">Driver: Inzamul Hoque</string>
+    <string name="vn_demo">Vehicle No: AS01FL0001</string>
+    <string name="rate_demo">Rate: ₹ 250</string>
+    <string name="date_time_demo">Date Time: 10th Dec 2024 @12:34:22 PM</string>
+    <string name="total_500_trip">Total : 500 Trip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qr_code_image">QR Code Image</string>
+    <string name="download_qr_code">Download QR Code</string>
+</resources>

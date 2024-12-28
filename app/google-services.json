@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079824128230",
+    "firebase_url": "https://egelamal-8f07e.firebaseio.com",
+    "project_id": "egelamal-8f07e",
+    "storage_bucket": "egelamal-8f07e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079824128230:android:dc04148507a79854f18327",
+        "android_client_info": {
+          "package_name": "com.erbpanel.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079824128230-agl99aghdmlbh7m549maeabhvdt0vhnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPZdUJkl3TdH-wohAY9UgAzNQ2zaUKyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079824128230-agl99aghdmlbh7m549maeabhvdt0vhnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
